@@ -23,11 +23,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
+<h2>Stage 1- Intake</h2>
 <p>
+Sammy is having issues logging in to do Payroll. So, he submits a ticket to get his issue resolved.
+  
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h2>Stage 2- Assignment and Communication</h2>
+
+Superior Admin User (Jury Martinez) assigns this task to Kayden
 </p>
 <br />
