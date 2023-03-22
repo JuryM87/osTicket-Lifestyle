@@ -25,10 +25,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 <h2>Stage 1- Intake</h2>
 <p>
-Sammy is having issues logging in to do Payroll. So, he submits a ticket to get his issue resolved.
+Sammy is having issues logging into his account. So, he submits a ticket to get his issue resolved.
   
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xQdSdgf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Stage 2- Assignment and Communication</h2>
@@ -36,3 +36,4 @@ Sammy is having issues logging in to do Payroll. So, he submits a ticket to get 
 Superior Admin User (Jury Martinez) assigns this task to Kayden
 </p>
 <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
