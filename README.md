@@ -33,7 +33,25 @@ Sammy is having issues logging into his account. So, he submits a ticket to get 
 <p>
 <h2>Stage 2- Assignment and Communication</h2>
 
-Superior Admin User (Jury Martinez) assigns this task to Kayden
+The Ticket Filter assigned this task to Kayden. (On Kayden's Agent Profile it was edited for all password reset's to be assigned to him)
 </p>
 <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q3A72Ou.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<h2>Stage 3- Working the Issue</h2>
+
+Kayden (Admin) communicates with the Sammy (User)
+</p>
+<br />
+<img src="https://i.imgur.com/2FceLQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>
+<h2>Stage 4- Resolution</h2>
+
+Kayden utilized his great customer services skills to resolve the issue and notified Sammy that he was going to close the ticket
+</p>
+<br />
+<img src="https://i.imgur.com/qM3JTZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Thank you for sticking around this far. Check out my other tutorial by clicking my profile.
